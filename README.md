@@ -1,6 +1,6 @@
 # ZNIX Panel resources
 
-![GitHub language count](https://img.shields.io/github/languages/count/clynt707/panel-v2-resources?style=for-the-badge)
+![GitHub language](https://img.shields.io/github/languages/count/clynt707/panel-v2-resources?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/clynt707/panel-v2-resources?style=for-the-badge)
 <img src="" alt="">
 
