@@ -11,7 +11,7 @@
 
 Languages that will be added:
 
-- [x] Python
+- [x] Python by [EinTim](https://github.com/EinTim23)
 - [ ] C++
 - [ ] C#
 - [ ] JavaScript
