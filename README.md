@@ -14,7 +14,7 @@ Languages that will be added:
 - [x] Python by [EinTim](https://github.com/EinTim23)
 - [ ] C++
 - [ ] C#
-- [ ] JavaScript
+- [x] JavaScript by [Clynt](https://github.com/Clynt707)
 
 ## 💻 Requirements
 
