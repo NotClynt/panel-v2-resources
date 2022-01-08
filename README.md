@@ -13,7 +13,7 @@ Languages that will be added:
 
 - [x] Python by [EinTim](https://github.com/EinTim23)
 - [ ] C++
-- [ ] C#
+- [x] C# by [unencouraged](https://github.com/unencouraged/znix-panel-v2-loader)
 - [x] JavaScript by [Clynt](https://github.com/Clynt707)
 
 ## 💻 Requirements
